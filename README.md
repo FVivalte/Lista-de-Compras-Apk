@@ -1,2 +1,2 @@
 # Lista-de-Compras-Apk
-meu app de lista de compras gratuito
+meu app gratuito de lista de compras 
